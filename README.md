@@ -1,3 +1,3 @@
 # hello-world
-hello world repoitory.
+hello world repository.
 testing creation of a new branch.
